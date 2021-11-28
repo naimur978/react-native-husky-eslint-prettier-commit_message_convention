@@ -1,4 +1,4 @@
-# react-native-husky-eslint-prettier-commit_message_convention
+
 
 
 git-commit-linter: https://www.npmjs.com/package/git-commit-msg-linter
